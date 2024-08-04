@@ -1,0 +1,12 @@
+{
+    "indexes": [
+      {
+        "collectionGroup": "inventory",
+        "fields": [
+          { "fieldPath": "name", "order": "ASCENDING" },
+          { "fieldPath": "quantity", "order": "DESCENDING" }
+        ]
+      }
+    ]
+  }
+  
